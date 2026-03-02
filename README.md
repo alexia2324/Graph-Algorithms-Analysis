@@ -9,9 +9,9 @@ Developed a modular Python framework for graph theory analysis, implementing com
 
 ### 📂 Dataset Overview
 The project processes different graph formats:
--**Directed & Weighted:** Graphs with edge costs and specific directions[cite: 71].
-- **Undirected & Unweighted:** Basic connectivity structures[cite: 72, 74].
-- ]**Spatial Data:** Vertex positioning (`x, y` coordinates) for visualization purposes.
+-**Directed & Weighted:** Graphs with edge costs and specific directions.
+- **Undirected & Unweighted:** Basic connectivity structures.
+- **Spatial Data:** Vertex positioning (`x, y` coordinates) for visualization purposes.
 
 ### 🛠️ Functionality
 - Reads and parses edge lists from raw text files.
