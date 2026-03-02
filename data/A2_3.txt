@@ -1,0 +1,10 @@
+directed unweighted
+A B
+H B
+A C
+C D
+D B
+E D
+E G
+D F
+F G
