@@ -1,4 +1,4 @@
-from graph import Graph
+from scr.graph import Graph
 from search import BFSIterator, DFSIterator
 from graph_algorithmA4 import*
 from search_algorithms import*
@@ -250,3 +250,4 @@ def graph_console():
 
 if __name__ == '__main__':
     graph_console()
+
